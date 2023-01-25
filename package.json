@@ -1,0 +1,18 @@
+{
+  "name": "node-lesson-2",
+  "version": "1.0.0",
+  "description": "Brad's Node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon ."
+  },
+  "author": "Abdullah Ajayi",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
